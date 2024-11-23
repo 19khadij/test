@@ -1,0 +1,30 @@
+-----Python-----
+Install Python interpreter by search the keyword "download python, for windows installer 64 bit". 
+
+-----Java-----
+Install jdk by search keyword "jdk - install for windows, 64 bit"
+
+-----ReactJs Node.js-----
+Install Node.js by search keyword node.js install 
+        -----------More--------
+        -ES7 React/Redux/GraphQL/React-Native snippets
+        -Bracket Pair Colorization Toggler
+        -Auto Rename Tag
+        -Live Server (Five Server)
+        -Prettier - Code formatter
+       -----Create App with npx-----
+       npx create-react-app app-name (if it is not working in vs code terminal)
+       then, create on windows power shell (shift right click into the folder)
+       -npm start (inside the folder)
+       ------Create App with vite------
+       -npm init vite
+       -choose the framework and variant(language/javascript or typescript)
+       -go into the folder, npm install, npm run dev
+
+      
+
+
+-----For Apis-----
+Install Extensions
+-Thunder client
+
