@@ -21,7 +21,19 @@ Install Node.js by search keyword node.js install
        -choose the framework and variant(language/javascript or typescript)
        -go into the folder, npm install, npm run dev
 
-      
+-----AngularJs Node.js-----
+Install Node.js by search keyword node.js install 
+-npm install -g @angular/cli
+        -----------More--------
+        -ES7 React/Redux/GraphQL/React-Native snippets
+        -Bracket Pair Colorization Toggler
+        -Auto Rename Tag
+        -Live Server (Five Server)
+        -Prettier - Code formatter  
+        -----Create App-----
+        -ng new appname
+        -run using the commad ng serve
+
 
 
 -----For Apis-----
